@@ -2,10 +2,6 @@
 
 This is the solution to the password generator project.
 
-# Starting Code
-
-[https://replit.com/@appbrewery/password-generator-start#README.md](https://replit.com/@appbrewery/password-generator-start#README.md)
-
 # Instructions
 
 The program will ask:
